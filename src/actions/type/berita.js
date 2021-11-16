@@ -1,0 +1,1 @@
+export const GET_BERITA = "GET_BERITA";
